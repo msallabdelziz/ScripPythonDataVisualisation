@@ -1,4 +1,5 @@
 import pandas as pd
+import matplotlib as plt
 
 # Chargement des données depuis l'URL
 url = 'https://raw.githubusercontent.com/mwaskom/seaborn-data/master/iris.csv'
